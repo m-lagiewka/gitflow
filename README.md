@@ -1,3 +1,3 @@
-new features appreciated!
 conflicting changes
 
+new features appreciated!
